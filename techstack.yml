@@ -1,7 +1,8 @@
 repo_name: steveny2k/essential-java
 report_id: 52c0ff858cb71f6945e659f1ab49fdac
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T09:30:17+00:00'
+timestamp: '2024-01-05T08:54:54+00:00'
 requested_by: waylau
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/steveny2k/essential-java
   detection_source: Repo Metadata
